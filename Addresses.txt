@@ -1,0 +1,13 @@
+Addresses for Roblox - 63d5cf76777d4db4
+
+lua_getfield         0x848BC0  __cdecl
+lua_setfield         0x84ADA0  __cdecl
+lua_settop           0x84B390  __stdcall
+lua_pushvalue        0x84A2C0  __cdecl
+lua_pushnumber       0x84A0C0  __thiscall
+lua_pushstring       0x84A150  __stdcall
+lua_pcall            0x849B70  __cdecl
+lua_pushboolean      0x849C50  __cdecl
+lua_newthread 	     0x849810  __cdecl
+ScriptContextVFTable 0x1E2D9D8
+lua_State = *(DWORD *)(ScriptContext + 56 * 0 + 164) - (ScriptContext + 56 * 0 + 164);
