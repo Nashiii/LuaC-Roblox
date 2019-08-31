@@ -13,7 +13,8 @@ The Sexiest Lua C Parser source code for Roblox; Written by Nashii.
 # My terms of usage if you use this source code
 * You must credit the rightful developers (listed above) within your application.
 * You do not sell it at all costs.
-* You should not ruin it with disgusting code.
+* You do not claim the code.
+* You are responsible for whatever you do with the code.
 
 # Where you can contact the developers
 * You can contact me by messaging me on discord which can be found at my v3rmillion page @ https://v3rmillion.net/member.php?action=profile&uid=666869 
